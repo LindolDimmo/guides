@@ -1,3 +1,5 @@
+![Barbarian Banner](../docs/assets/images/barbarian-banner.png)
+
 # Lindol's Diablo Immortal Ultimate Barbarian Guide
 
 
@@ -60,6 +62,15 @@ Best Legendary Gems
 4. Phoenix Ashes - gives a cheat death that increases in effectiveness as you rank this gem up. There might be unpredictable interactions between this Gem and Undying Rage, so we have to see how it performs with more testing.
 5. Bottled Hope - provides great damage and movement speed. It can be triggered easily by using Sprint, Wrath of the Berserker or Undying Rage.
 6. Chip of Stone Flesh - increases your damage sigificantly and can proc from any hard cc like your stun from the Hammer of the Ancients + combination. In this PvP Guide however it is mostly a stat & resonance boost.
+
+Pure Damage Gems
+================
+1. Berserker's Eye - Increases all damage you deal by 5.50%, but also increases all damage you take by 6%.
+2. Chained Death - Increases damage done by your attacks by 1.50% per target hit, up to a maximum of x*3% with 3 targets.
+3. 2* Cutthroat's Grin - Gain 8.0% increased Critical Hit Chance when attacking from behind
+4. 2* Power & Command - Power & Command alternate states every 9 seconds. Power increases your Primary Attack damage by 8.0%.
+5. 2* Fervent Fang - Each time you deal damage to an enemy, that enemy now takes x% increased from your attack, up to a maximum of x% at 10 stacks.
+6. 5* Blood-Soaked Jade - Increases all damage you deal by up to 8.0% and your Movement speed by 10%, with less damage bonus the lower your Life, to a minimum of x*0.5%.
 
 
 Whirlwind
@@ -251,3 +262,106 @@ Leveling
 - P1-P30 - H1 green farming, world events, clan invites
 - P31-P80 - H2 green farming, gems, legos, world events, clan invites
 
+
+![Set Items](../docs/assets/images/set-items.png)
+
+# H1
+
+### Mad King’s Breach
+- [ ] MT - Untouchable, Mountebank’s Bravado (belt) (h1)
+- [ ] Barb - Grace, Torn Sole (boots) (h1)
+
+### Pit of Anguish
+- [ ] Barb - Grace, Open Gut (belt) (h1)
+- [ ] Crux - Windloft, Vithu, Beacon’s Urge (boots) (h1)
+
+### Kikuras Rapids
+
+- [ ] Crux - Windloft, Stump-Stir (boots) (h1)
+
+### Forgotten Tower
+- [ ] MT - Untouchable, Mountebank’s Slyness (boots) (h1)
+
+### Destruction’s End
+- [ ] Crux - Windloft, Whipcrack (belt) (h1)
+
+### Cavern of Echoes
+- [ ] Crux - Vithu, Exemplar’s Urge (belt) (h1)
+
+
+# H2
+
+### Forgotten Tower
+- [ ] MT - Untouchable, Mountebank’s Slyness (boots) (h1)
+- [ ] Crux - Windloft, Windsom’s Edge (amulet) (h2)
+
+### Kikuras Rapids
+- [ ] MT - Mountebank’s Misdirection (ring) (h4)
+- [ ] Crux - Windloft, Stump-Stir (boots) (h1)
+- [ ] Crux - Vithu, Awakener’s Urge (amulet) (h2)
+
+### Destruction’s End
+- [ ] Barb - Grace, Cut Throat (amulet) (h2)
+- [ ] Crux - Windloft, Whipcrack (belt) (h1)
+
+### Mad King’s Breach
+- [ ] MT - Untouchable, Mountebank’s Bravado (belt) (h1)
+- [ ] Barb - Grace, Torn Sole (boots) (h1)
+
+### Pit of Anguish
+- [ ] MT - Untouchable, Mountebank’s Shirking (gloves) (h2)
+- [ ] Barb - Grace, Open Gut (belt) (h1)
+- [ ] Crux - Vithu, Beacon’s Urge (boots) (h1)
+
+### Cavern of Echoes
+- [ ] MT - Untouchable, Mountebank’s Flurish (amulet) (h2)
+- [ ] Barb - Grace, Bloody Hand (gloves) (h2)
+- [ ] Crux - Vithu, Exemplar’s Urge (belt) (h1)
+
+### Tomb of Fahir
+- [ ] Crux - Windloft, Hurtling Steel (gloves) (h2)
+
+### Temple of Namari
+- [ ] Crux - Vitu, Luminary’s Urge (gloves) (h2)
+
+# H4
+
+### Mad King’s Breach
+- [ ] MT - Untouchable, Mountebank’s Bravado (belt) (h1)
+- [ ] Barb - Grace, Torn Sole (boots) (h1)
+- [ ] Crux - Windloft, Fairfleet (ring) (h4)
+
+### Pit of Anguish
+- [ ] MT - Untouchable, Mountebank’s Shirking (gloves) (h2)
+- [ ] Barb - Grace, Open Gut (belt) (h1)
+- [ ] Crux - Foulfleet (ring) (h4)
+- [ ] Crux - Vithu, Beacon’s Urge (boots) (h1)
+
+### Kikuras Rapids
+- [ ] MT - Mountebank’s Misdirection (ring) (h4)
+- [ ] Barb - Grace, Broken Palm (ring) (h4)
+- [ ] Crux - Windloft, Stump-Stir (boots) (h1)
+- [ ] Crux - Vithu, Awakener’s Urge (amulet) (h2)
+
+### Destruction’s End
+- [ ] Barb - Grace, Cut Throat (amulet) (h2)
+- [ ] Crux - Windloft, Whipcrack (belt) (h1)
+- [ ] Crux - Vithu, Modest Urge (ring) (h4)
+
+### Cavern of Echoes
+- [ ] MT - Untouchable, Mountebank’s Flurish (amulet) (h2)
+- [ ] Barb - Grace, Bloody Hand (gloves) (h2)
+- [ ] Crux - Vithu, Exemplar’s Urge (belt) (h1)
+
+### Temple of Namari
+- [ ] MT - Mountebank’s Misdirection (ring)  (h4)
+- [ ] Barb - Grace, Severed Thumb (ring) (h4)
+- [ ] Crux - Vitu, Luminary’s Urge (gloves) (h2)
+
+### Forgotten Tower
+- [ ] MT - Untouchable, Mountebank’s Slyness (boots) (h1)
+- [ ] Crux - Windloft, Windsom’s Edge (amulet) (h2)
+
+### Tomb of Fahir
+- [ ] Crux - Windloft, Hurtling Steel (gloves) (h2)
+- [ ] Crux - Vithu, Shameless Urge (ring) (h4)
